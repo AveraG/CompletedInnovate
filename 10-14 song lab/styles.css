@@ -1,0 +1,12 @@
+body {
+    background: rgb(245, 220, 231);
+}
+
+h1 {
+    color: rgb(15, 101, 129);
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+}
